@@ -1,0 +1,9 @@
+Depth-first-search
+Min cost = 9
+Matching: 3 1 2 
+
+--------
+
+Best-first-search
+Min cost = 9
+Matching: 3 1 2 

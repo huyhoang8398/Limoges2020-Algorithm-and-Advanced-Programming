@@ -1,0 +1,7 @@
+Exhaustive time  = 40
+Exhaustive order = 2 4 1 3 
+
+-------
+
+Greedy time  = 40
+Greedy order = 2 4 1 3 
